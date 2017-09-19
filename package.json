@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/owenbarford/NVMApp.git"
   },
-  "author": "Owen",
+  "author": "Owen Barford",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/owenbarford/NVMApp/issues"
