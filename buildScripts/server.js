@@ -9,8 +9,8 @@ app.set('views', __dirname);
 app.set('view engine', 'jade');
 
 app.get('/', function(req, res){
-    console.log(path.join(__dirname, '../NVMApp/index.html'));
-    res.sendFile(path.join(__dirname, '../NVMApp/index.html'));
+    console.log(path.join(__dirname, '../src/index.html'));
+    res.sendFile(path.join(__dirname, '../src/index.html'));
 });
 
 app.listen(port, function(err){
