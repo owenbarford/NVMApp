@@ -1,3 +1,5 @@
-var chalk = require('chalk');
+require("babel-register");
 
-console.log(chalk.green('Starting app in dev mode...'));
+import chalk from 'chalk';
+
+console.log(chalk.green('Starting app in dev mode...'));  // eslint-disable-line no-console

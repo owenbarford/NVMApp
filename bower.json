@@ -1,9 +1,8 @@
 {
   "name": "nvmapp",
   "description": "NVMApp",
-  "main": "index.js",
   "authors": [
-    "Owen"
+    "Owen Barford"
   ],
   "license": "ISC",
   "homepage": "https://github.com/owenbarford/NVMApp",
